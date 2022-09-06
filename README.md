@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amin-AQ
-- 👀 I’m interested in ... i'm on github, what does that tell u ?
-- 🌱 I’m currently learning ... things i dont know yet
-- 💞️ I’m looking to collaborate on ... projects
-- 📫 How to reach me ... u can't
+- 👀 I’m interested in ... learning and building
+- 🌱 I’m currently learning ... Game Dev with unity, react, Blockchain 
+- 💞️ I’m looking to collaborate on ... any project, event, competition etc
+- 📫 How to reach me ... drop me an email: aminqasmi78@gmail.com
 
 <!---
 Amin-AQ/Amin-AQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
