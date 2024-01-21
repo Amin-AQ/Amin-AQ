@@ -3,10 +3,10 @@ Hello, I am a computer science student and I am currently working on AI/ML/DL pr
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Amin Ahmad) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amin-ahmad-7a49991bb) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amin-AQ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Amin-AQ&theme=dark&hide_border=false&include_all_commits=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Amin-AQ&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-AQ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
