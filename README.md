@@ -10,7 +10,7 @@ Hello, I am a computer science student currently working on AI/ML/DL projects. I
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-AQ&theme=default&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Amin-AQ&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Amin-AQ&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Amin-AQ&limit=5&theme=default&combine_all_yearly_contributions=true)
