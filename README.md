@@ -1,23 +1,22 @@
 # 💫 About Me:
-Hello, I am a computer science student and I am currently working on AI/ML/DL projects. I have worked on Mobile App development (Java, Kotlin, Flutter), Web development (MERN, Django), and Blockchain Development (Solidity, Clarity). 
-
+Hello, I am a computer science student currently working on AI/ML/DL projects. I have experience in Mobile App development (Java, Kotlin, Flutter), Web development (MERN, Django), and Blockchain Development (Solidity, Clarity).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amin-ahmad-7a49991bb)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amin-AQ&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Amin-AQ&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-AQ&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amin-AQ&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amin-AQ&theme=default&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-AQ&theme=default&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Amin-AQ&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Amin-AQ&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amin-AQ&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Amin-AQ&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
