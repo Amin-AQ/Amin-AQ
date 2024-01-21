@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello, I am a computer science student currently working on AI/ML/DL projects. I have experience in Mobile App development (Java, Kotlin, Flutter), Web development (MERN, Django), and Blockchain Development (Solidity, Clarity).🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+Hello, I am a computer science student currently working on AI/ML/DL projects. I have experience in Mobile App development (Java, Kotlin, Flutter), Web development (MERN, Django), and Blockchain Development (Solidity, Clarity).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amin-ahmad-7a49991bb) 
