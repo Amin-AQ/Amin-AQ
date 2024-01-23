@@ -5,18 +5,32 @@ Hello, I am a computer science student currently working on AI/ML/DL projects. I
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amin-ahmad-7a49991bb) 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Amin-AQ&theme=dracula&hide_border=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Amin-AQ&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-AQ&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats:
 
-[![](https://visitcount.itsvg.in/api?id=Amin-AQ&icon=2&color=0)](https://visitcount.itsvg.in)
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amin-AQ&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+  <div style="grid-column: span 2;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Amin-AQ&theme=dracula&hide_border=false&count_private=true" alt="GitHub Stats">
+  </div>
+
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amin-AQ&theme=dracula&hide_border=false" alt="GitHub Streak">
+  </div>
+
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-AQ&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  </div>
+
+</div>
+
+## 🔝 Top Contributed Repo
+<img src="https://github-contributor-stats.vercel.app/api?username=Amin-AQ&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Amin-AQ&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+
+[![](https://visitcount.itsvg.in/api?id=Amin-AQ&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
