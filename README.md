@@ -4,27 +4,15 @@ Hello, I am a computer science student currently working on AI/ML/DL projects. I
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amin-ahmad-7a49991bb) 
 
-
 ## 📊 GitHub Stats:
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
-
-  <div style="grid-column: span 2;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amin-AQ&theme=dracula&hide_border=false&count_private=true" alt="GitHub Stats">
-  </div>
-
-  <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amin-AQ&theme=dracula&hide_border=false" alt="GitHub Streak">
-  </div>
-
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-AQ&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-  </div>
-
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amin-AQ&theme=dracula&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amin-AQ&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-AQ&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
-## 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=Amin-AQ&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+### 🔝 Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Amin-AQ&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Amin-AQ&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
