@@ -6,13 +6,10 @@ Hello, I am a computer science student currently working on AI/ML/DL projects. I
 
 # 📊 GitHub Stats:
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-bottom: 20px;">
-  <div style="margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Amin-AQ&theme=dracula&hide_border=false&count_private=true" alt="GitHub Stats" />
-  </div>
-  <div style="margin-right: 20px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amin-AQ&theme=dracula&hide_border=false" alt="GitHub Streak" />
-  </div>
-  <div style="align-self: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amin-AQ&theme=dracula&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <div style="margin-right: 20px;"></div> <!-- Add space between the first two images -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amin-AQ&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <div style="grid-column: span 3; display: flex; justify-content: center;"> <!-- Center the third image in the second row -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-AQ&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </div>
 </div>
