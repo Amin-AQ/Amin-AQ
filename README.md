@@ -5,13 +5,10 @@ Hello, I am a computer science student currently working on AI/ML/DL projects. I
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amin-ahmad-7a49991bb) 
 
 # 📊 GitHub Stats:
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin-bottom: 20px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 50px; margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Amin-AQ&theme=dracula&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <div style="margin-right: 20px;"></div> <!-- Add space between the first two images -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amin-AQ&theme=dracula&hide_border=false" alt="GitHub Streak" />
-  <div style="grid-column: span 3; display: flex; justify-content: center;"> <!-- Center the third image in the second row -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-AQ&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-AQ&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ### 🔝 Top Contributed Repo
