@@ -12,6 +12,7 @@ Hello, I am a computer science student currently working on AI/ML/DL projects. I
 <div style="text-align: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-AQ&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Amin-AQ&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
