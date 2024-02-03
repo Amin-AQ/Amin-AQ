@@ -16,7 +16,6 @@ Hello, I am a computer science student currently working on AI/ML/DL projects. I
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Amin-AQ&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-
 [![](https://visitcount.itsvg.in/api?id=Amin-AQ&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
