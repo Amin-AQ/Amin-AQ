@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am a computer science student currently working on AI/ML/DL projects. I have experience in Mobile App development (Java, Kotlin, Flutter), Web development (MERN, Django), and Blockchain Development (Solidity, Clarity, GoLang).
+I am a computer science graduate specialising in AI in Healthcare, with hands-on experience in NLP and Generative AI. My experience spans working as a research assistant in Labs to as a Machine Learning Engineer in the industry.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amin-ahmad-7a49991bb) 
