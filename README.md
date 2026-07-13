@@ -4,7 +4,7 @@ I'm Amin 👋
 
 AI/ML Engineer & Researcher interested in building intelligent systems that bridge research and real-world applications. I work across LLMs, Speech AI, Computer Vision, Multimodal Learning, and AI for Healthcare.
 
-🔭 Working on: Active Learning • LLM Agents • Healthcare AI
+🔭 Working on: Full Stack • LLM Agents • Healthcare AI
 
 🤝 Open to collaborate on: AI Research & Open Source
 
