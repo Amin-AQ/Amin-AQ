@@ -10,10 +10,7 @@ I am a computer science graduate specialising in AI in Healthcare, with hands-on
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-AQ&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Amin-AQ&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-<img width="876" height="1329" alt="image" src="https://github.com/user-attachments/assets/7d36e226-ab85-43da-aafa-62a82f872684" />
+<img width="527" height="800" alt="image" src="https://github.com/user-attachments/assets/7d36e226-ab85-43da-aafa-62a82f872684" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
